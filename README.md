@@ -1,0 +1,2 @@
+# NLP_debate_analyzer_generator
+结合NLP技术，在辩论场景下，实现解析辩论文本为结构化数据，并依此生成对应辩论语句。模拟辩论场景
